@@ -1,0 +1,13 @@
+version: '3'
+services:
+  datascience_master:
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    container_name: miniconda
+    ports:
+      - 8888:8888
+    restart: always
+    volumes:
+      # Mapping host folder to container
+      - ./master_notebooks:/opt/notebooks

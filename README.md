@@ -104,6 +104,38 @@ A continuación debemos garantizar que nuestro usuario puede ejecutar Docker sin
 $ sudo usermod -aG docker ${USER}
 ```
 
+# Instalación de Docker-compose (opcional)
+
+Instalar docker-compose es opcional, pero permite inicializar todo de forma bastante mas sencilla,
+por lo que su instalación es recomendable.
+
+Comprobamos primero si la ultima versión y nos la bajamos:
+
+```commandline
+$ sudo curl -L https://github.com/docker/compose/releases/download/1.18.0/docker-compose-`uname -s`-`uname -m` -o /usr/local/bin/docker-compose
+```
+
+Garantizamos permisos:
+
+```commandline
+$ sudo chmod +x /usr/local/bin/docker-compose
+```
+
+Comprobamos que se ha instalado correctamente docker-compose:
+
+```commandline
+$ docker-compose --version
+```
+
+El resultado deberia ser algo parecido a lo siguiente:
+
+```commandline
+Output
+docker-compose version 1.18.0, build 8dd22a9
+```
+
+Listo, ya podemos usar docker-compose en vez de docker para gestionar nuestros containers
+
 # Jupyter
 
 Para la instalación y uso de Jupyter dockerizada, vamos a utilizar como base la siguiente
@@ -120,6 +152,22 @@ de los notebooks a discreción.
 El fichero Dockerfile y Docker se encargan de la instalación y puesta en marcha de Jupyter
 
 ## Puesta en marcha
+
+
+### Utilizando Docker-compose
+
+Si utilizamos docker-compose, la puesta en marcha es mucho mas sencilla. Lo único que tenemos
+que hacer es colocarnos en el directorio /python_data_science_master_unav y ejecutar el
+siguiente comando:
+
+```commandline
+$ docker-compose up
+```
+
+Al finalizarse este comando tendremos Jupyter accesible en [http://localhost:8888](http:localhost:8888)
+
+
+### Utilzando Docker
 
 Una vez instalado Docker, procedemos a crear la imagen Docker que nos permitirá trabajar:
 
