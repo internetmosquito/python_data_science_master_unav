@@ -3,6 +3,40 @@
 Repositorio para almancenar los contenidos del master Python Data Science de la UNAV, principalmente todo lo relacionado
 con Python, Jupyter y Docker.
 
+Veamos como poner todo en marcha haciendo una instalación en local o utilizando Docker
+
+
+# Instalación de git
+
+## Linux o Mac
+
+```commandline
+sudo apt-get install git
+```
+
+## Windows 
+
+Descargar git y un pequeño cliente gráfico desde este [enlace](https://github.com/git-for-windows/git/releases/download/v2.15.1.windows.2/Git-2.15.1.2-64-bit.exe)
+
+Una vez finalizada las instalación estaremos listos para clonar el repositorio.
+
+# Clonar el repositorio
+
+**NOTA: Necesitaremos un usuario de GitHub para poder clonar**
+
+El repositorio se encuentra en https://github.com/internetmosquito/python_data_science_master_unav
+
+Debemos de clonar el repositorio en local
+
+## Linux
+
+```commandline
+git clone https://github.com/internetmosquito/python_data_science_master_unav.git
+```
+
+## Windows
+
+Usar el cliente gráfico para clonar el repositorio
 
 # Docker
 
@@ -22,6 +56,17 @@ Por defecto, se incluyen los siguientes paquetes si se utiliza Docker:
 * hide_code
 
 ## Instalación de Docker
+
+
+### Entornos Windows
+
+Descargar la version estable de Docker para Windows de [aqui](https://docs.docker.com/docker-for-windows/install/)
+
+El instalador de Windows instala todo lo necesario para ponerse en marcha: Docker, Docker-machine y Docker-compose
+
+A partir de aquí el proceso es muy parecido a Linux, seguir las instrucción de abajo.
+
+### Entornos Linux
 
 
 A continuación se explica el proceso para instalar Docker en un SO Ubuntu 16.04
@@ -282,3 +327,19 @@ Si hemos ejecutado los pasos anteriores correctamente, Jupyter esta accessible e
 
 Dentro de Jupyter, podemos acceder a los contenidos de master_notebooks y a los notebooks
 que ahí se encuentran
+
+
+## Instalación local
+
+Se recomienda usar Anaconda si no se quiere utilizar Docker para instalar Anaconda y Jupyter
+
+## Entornos Windows
+
+Descargar Anaconda desde este [enlace](https://www.anaconda.com/download/#windows) y seguir los pasos de instalación.
+
+Este paquete instala todo lo necesario para ponerse en marcha tanto con Jupyter (si queremos) como con todos los
+paquetes de datos que vamos a utilizar. 
+
+Una vez finalizada la instalación, podremos ejecutar los notebooks del curso como si estuvieramos en Docker.
+
+
