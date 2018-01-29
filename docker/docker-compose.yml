@@ -10,4 +10,4 @@ services:
     restart: always
     volumes:
       # Mapping host folder to container
-      - ./master_notebooks:/opt/notebooks
+      - ../master_notebooks:/opt/notebooks
