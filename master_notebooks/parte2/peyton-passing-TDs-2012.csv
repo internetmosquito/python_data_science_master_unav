@@ -1,0 +1,1100 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en" class="">
+  <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# object: http://ogp.me/ns/object# article: http://ogp.me/ns/article# profile: http://ogp.me/ns/profile#">
+    <meta charset='utf-8'>
+    
+
+    <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/frameworks-670aaf67517f485d1cc3d32a9303f11b30559d2d8b6bf839bf0199b83ad50468.css" media="all" rel="stylesheet" />
+    <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/github-420ba9398a86a0591f142ea706b2810b93f39650247b1730af65a71f434becc0.css" media="all" rel="stylesheet" />
+    
+    
+    <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/site-4a18dc1c93cc7113ea22c7c6b62826f621b52a57f32caea97c682100ac10de36.css" media="all" rel="stylesheet" />
+    
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Language" content="en">
+    <meta name="viewport" content="width=device-width">
+    
+    <title>gregreda.com/peyton-passing-TDs-2012.csv at master · gjreda/gregreda.com · GitHub</title>
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
+    <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+    <meta property="fb:app_id" content="1401488693436528">
+
+      <meta content="https://avatars0.githubusercontent.com/u/921995?v=3&amp;s=400" name="twitter:image:src" /><meta content="@github" name="twitter:site" /><meta content="summary" name="twitter:card" /><meta content="gjreda/gregreda.com" name="twitter:title" /><meta content="Contribute to gregreda.com development by creating an account on GitHub." name="twitter:description" />
+      <meta content="https://avatars0.githubusercontent.com/u/921995?v=3&amp;s=400" property="og:image" /><meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="gjreda/gregreda.com" property="og:title" /><meta content="https://github.com/gjreda/gregreda.com" property="og:url" /><meta content="Contribute to gregreda.com development by creating an account on GitHub." property="og:description" />
+      <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+    <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
+    <link rel="assets" href="https://assets-cdn.github.com/">
+    
+    <meta name="pjax-timeout" content="1000">
+    
+    <meta name="request-id" content="C17D6560:1A75:5955266:580E1BCE" data-pjax-transient>
+
+    <meta name="msapplication-TileImage" content="/windows-tile.png">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="selected-link" value="repo_source" data-pjax-transient>
+
+    <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
+<meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
+    <meta name="google-analytics" content="UA-3769691-2">
+
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="C17D6560:1A75:5955266:580E1BCE" name="octolytics-dimension-request_id" />
+<meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" name="analytics-location" />
+
+
+
+  <meta class="js-ga-set" name="dimension1" content="Logged Out">
+
+
+
+        <meta name="hostname" content="github.com">
+    <meta name="user-login" content="">
+
+        <meta name="expected-hostname" content="github.com">
+      <meta name="js-proxy-site-detection-payload" content="MzM4NGRhYjJmNTFmMjlmNDJhODRiYWYzZGRlMDM1NTBmMzM2NjA4MjY2MWI5MDhmYmFjZTQ3Mzc5MDhlMmM3MXx7InJlbW90ZV9hZGRyZXNzIjoiMTkzLjEyNS4xMDEuOTYiLCJyZXF1ZXN0X2lkIjoiQzE3RDY1NjA6MUE3NTo1OTU1MjY2OjU4MEUxQkNFIiwidGltZXN0YW1wIjoxNDc3MzE5NjMwLCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+
+
+      <link rel="mask-icon" href="https://assets-cdn.github.com/pinned-octocat.svg" color="#4078c0">
+      <link rel="icon" type="image/x-icon" href="https://assets-cdn.github.com/favicon.ico">
+
+    <meta name="html-safe-nonce" content="7b2275eeab326f61ebcbdcc892cdd858f033d9ff">
+    <meta content="855aee61dc0fdc4ea0885e87570d62357ebeb97e" name="form-nonce" />
+
+    <meta http-equiv="x-pjax-version" content="a9454abfe74e11bea8a25c5bbab87e2f">
+    
+
+      
+  <meta name="description" content="Contribute to gregreda.com development by creating an account on GitHub.">
+  <meta name="go-import" content="github.com/gjreda/gregreda.com git https://github.com/gjreda/gregreda.com.git">
+
+  <meta content="921995" name="octolytics-dimension-user_id" /><meta content="gjreda" name="octolytics-dimension-user_login" /><meta content="32652653" name="octolytics-dimension-repository_id" /><meta content="gjreda/gregreda.com" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="32652653" name="octolytics-dimension-repository_network_root_id" /><meta content="gjreda/gregreda.com" name="octolytics-dimension-repository_network_root_nwo" />
+  <link href="https://github.com/gjreda/gregreda.com/commits/master.atom" rel="alternate" title="Recent Commits to gregreda.com:master" type="application/atom+xml">
+
+
+      <link rel="canonical" href="https://github.com/gjreda/gregreda.com/blob/master/content/notebooks/data/peyton-passing-TDs-2012.csv" data-pjax-transient>
+  </head>
+
+
+  <body class="logged-out  env-production  vis-public page-blob">
+    <div id="js-pjax-loader-bar" class="pjax-loader-bar"><div class="progress"></div></div>
+    <a href="#start-of-content" tabindex="1" class="accessibility-aid js-skip-to-content">Skip to content</a>
+
+    
+    
+    
+
+
+
+          <header class="site-header js-details-container" role="banner">
+  <div class="container-responsive">
+    <a class="header-logo-invertocat" href="https://github.com/" aria-label="Homepage" data-ga-click="(Logged out) Header, go to homepage, icon:logo-wordmark">
+      <svg aria-hidden="true" class="octicon octicon-mark-github" height="32" version="1.1" viewBox="0 0 16 16" width="32"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"></path></svg>
+    </a>
+
+    <button class="btn-link float-right site-header-toggle js-details-target" type="button" aria-label="Toggle navigation">
+      <svg aria-hidden="true" class="octicon octicon-three-bars" height="24" version="1.1" viewBox="0 0 12 16" width="18"><path d="M11.41 9H.59C0 9 0 8.59 0 8c0-.59 0-1 .59-1H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1h.01zm0-4H.59C0 5 0 4.59 0 4c0-.59 0-1 .59-1H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1h.01zM.59 11H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1H.59C0 13 0 12.59 0 12c0-.59 0-1 .59-1z"></path></svg>
+    </button>
+
+    <div class="site-header-menu">
+      <nav class="site-header-nav site-header-nav-main">
+        <a href="/personal" class="js-selected-navigation-item nav-item nav-item-personal" data-ga-click="Header, click, Nav menu - item:personal" data-selected-links="/personal /personal">
+          Personal
+</a>        <a href="/open-source" class="js-selected-navigation-item nav-item nav-item-opensource" data-ga-click="Header, click, Nav menu - item:opensource" data-selected-links="/open-source /open-source">
+          Open source
+</a>        <a href="/business" class="js-selected-navigation-item nav-item nav-item-business" data-ga-click="Header, click, Nav menu - item:business" data-selected-links="/business /business/partners /business/features /business/customers /business">
+          Business
+</a>        <a href="/explore" class="js-selected-navigation-item nav-item nav-item-explore" data-ga-click="Header, click, Nav menu - item:explore" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship /explore">
+          Explore
+</a>      </nav>
+
+      <div class="site-header-actions">
+            <a class="btn btn-primary site-header-actions-btn" href="/join?source=header-repo" data-ga-click="(Logged out) Header, clicked Sign up, text:sign-up">Sign up</a>
+          <a class="btn site-header-actions-btn mr-2" href="/login?return_to=%2Fgjreda%2Fgregreda.com%2Fblob%2Fmaster%2Fcontent%2Fnotebooks%2Fdata%2Fpeyton-passing-TDs-2012.csv" data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">Sign in</a>
+      </div>
+
+        <nav class="site-header-nav site-header-nav-secondary">
+          <a class="nav-item" href="/pricing">Pricing</a>
+          <a class="nav-item" href="/blog">Blog</a>
+          <a class="nav-item" href="https://help.github.com">Support</a>
+          <a class="nav-item header-search-link" href="https://github.com/search">Search GitHub</a>
+              <div class="header-search scoped-search site-scoped-search js-site-search" role="search">
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/gjreda/gregreda.com/search" class="js-site-search-form" data-scoped-search-url="/gjreda/gregreda.com/search" data-unscoped-search-url="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+    <label class="form-control header-search-wrapper js-chromeless-input-container">
+      <div class="header-search-scope">This repository</div>
+      <input type="text"
+        class="form-control header-search-input js-site-search-focus js-site-search-field is-clearable"
+        data-hotkey="s"
+        name="q"
+        placeholder="Search"
+        aria-label="Search this repository"
+        data-unscoped-placeholder="Search GitHub"
+        data-scoped-placeholder="Search"
+        autocapitalize="off">
+    </label>
+</form></div>
+
+        </nav>
+    </div>
+  </div>
+</header>
+
+
+
+    <div id="start-of-content" class="accessibility-aid"></div>
+
+      <div id="js-flash-container">
+</div>
+
+
+    <div role="main">
+        <div itemscope itemtype="http://schema.org/SoftwareSourceCode">
+    <div id="js-repo-pjax-container" data-pjax-container>
+      
+<div class="pagehead repohead instapaper_ignore readability-menu experiment-repo-nav">
+  <div class="container repohead-details-container">
+
+    
+
+<ul class="pagehead-actions">
+
+  <li>
+      <a href="/login?return_to=%2Fgjreda%2Fgregreda.com"
+    class="btn btn-sm btn-with-count tooltipped tooltipped-n"
+    aria-label="You must be signed in to watch a repository" rel="nofollow">
+    <svg aria-hidden="true" class="octicon octicon-eye" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"></path></svg>
+    Watch
+  </a>
+  <a class="social-count" href="/gjreda/gregreda.com/watchers"
+     aria-label="2 users are watching this repository">
+    2
+  </a>
+
+  </li>
+
+  <li>
+      <a href="/login?return_to=%2Fgjreda%2Fgregreda.com"
+    class="btn btn-sm btn-with-count tooltipped tooltipped-n"
+    aria-label="You must be signed in to star a repository" rel="nofollow">
+    <svg aria-hidden="true" class="octicon octicon-star" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74z"></path></svg>
+    Star
+  </a>
+
+    <a class="social-count js-social-count" href="/gjreda/gregreda.com/stargazers"
+      aria-label="6 users starred this repository">
+      6
+    </a>
+
+  </li>
+
+  <li>
+      <a href="/login?return_to=%2Fgjreda%2Fgregreda.com"
+        class="btn btn-sm btn-with-count tooltipped tooltipped-n"
+        aria-label="You must be signed in to fork a repository" rel="nofollow">
+        <svg aria-hidden="true" class="octicon octicon-repo-forked" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"></path></svg>
+        Fork
+      </a>
+
+    <a href="/gjreda/gregreda.com/network" class="social-count"
+       aria-label="89 users are forked this repository">
+      89
+    </a>
+  </li>
+</ul>
+
+    <h1 class="public ">
+  <svg aria-hidden="true" class="octicon octicon-repo" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"></path></svg>
+  <span class="author" itemprop="author"><a href="/gjreda" class="url fn" rel="author">gjreda</a></span><!--
+--><span class="path-divider">/</span><!--
+--><strong itemprop="name"><a href="/gjreda/gregreda.com" data-pjax="#js-repo-pjax-container">gregreda.com</a></strong>
+
+</h1>
+
+  </div>
+  <div class="container">
+    
+<nav class="reponav js-repo-nav js-sidenav-container-pjax"
+     itemscope
+     itemtype="http://schema.org/BreadcrumbList"
+     role="navigation"
+     data-pjax="#js-repo-pjax-container">
+
+  <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+    <a href="/gjreda/gregreda.com" aria-selected="true" class="js-selected-navigation-item selected reponav-item" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches /gjreda/gregreda.com" itemprop="url">
+      <svg aria-hidden="true" class="octicon octicon-code" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"></path></svg>
+      <span itemprop="name">Code</span>
+      <meta itemprop="position" content="1">
+</a>  </span>
+
+    <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+      <a href="/gjreda/gregreda.com/issues" class="js-selected-navigation-item reponav-item" data-hotkey="g i" data-selected-links="repo_issues repo_labels repo_milestones /gjreda/gregreda.com/issues" itemprop="url">
+        <svg aria-hidden="true" class="octicon octicon-issue-opened" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg>
+        <span itemprop="name">Issues</span>
+        <span class="counter">6</span>
+        <meta itemprop="position" content="2">
+</a>    </span>
+
+  <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+    <a href="/gjreda/gregreda.com/pulls" class="js-selected-navigation-item reponav-item" data-hotkey="g p" data-selected-links="repo_pulls /gjreda/gregreda.com/pulls" itemprop="url">
+      <svg aria-hidden="true" class="octicon octicon-git-pull-request" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0 0 10 15a1.993 1.993 0 0 0 1-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v6.56A1.993 1.993 0 0 0 2 15a1.993 1.993 0 0 0 1-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"></path></svg>
+      <span itemprop="name">Pull requests</span>
+      <span class="counter">0</span>
+      <meta itemprop="position" content="3">
+</a>  </span>
+
+  <a href="/gjreda/gregreda.com/projects" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /gjreda/gregreda.com/projects">
+    <svg class="octicon" aria-hidden="true" version="1.1" width="15" height="16" viewBox="0 0 15 16">
+      <path d="M1 15h13V1H1v14zM15 1v14a1 1 0 0 1-1 1H1a1 1 0 0 1-1-1V1a1 1 0 0 1 1-1h13a1 1 0 0 1 1 1zm-4.41 11h1.82c.59 0 .59-.41.59-1V3c0-.59 0-1-.59-1h-1.82C10 2 10 2.41 10 3v8c0 .59 0 1 .59 1zm-4-2h1.82C9 10 9 9.59 9 9V3c0-.59 0-1-.59-1H6.59C6 2 6 2.41 6 3v6c0 .59 0 1 .59 1zM2 13V3c0-.59 0-1 .59-1h1.82C5 2 5 2.41 5 3v10c0 .59 0 1-.59 1H2.59C2 14 2 13.59 2 13z"></path>
+    </svg>
+    Projects
+    <span class="counter">0</span>
+</a>
+
+
+  <a href="/gjreda/gregreda.com/pulse" class="js-selected-navigation-item reponav-item" data-selected-links="pulse /gjreda/gregreda.com/pulse">
+    <svg aria-hidden="true" class="octicon octicon-pulse" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M11.5 8L8.8 5.4 6.6 8.5 5.5 1.6 2.38 8H0v2h3.6l.9-1.8.9 5.4L9 8.5l1.6 1.5H14V8z"></path></svg>
+    Pulse
+</a>
+  <a href="/gjreda/gregreda.com/graphs" class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors /gjreda/gregreda.com/graphs">
+    <svg aria-hidden="true" class="octicon octicon-graph" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M16 14v1H0V0h1v14h15zM5 13H3V8h2v5zm4 0H7V3h2v10zm4 0h-2V6h2v7z"></path></svg>
+    Graphs
+</a>
+
+</nav>
+
+  </div>
+</div>
+
+<div class="container new-discussion-timeline experiment-repo-nav">
+  <div class="repository-content">
+
+    
+
+<a href="/gjreda/gregreda.com/blob/3015a3484830d9611b10a02f127ec76423324e43/content/notebooks/data/peyton-passing-TDs-2012.csv" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
+
+<!-- blob contrib key: blob_contributors:v21:7d7d419a283f74026ef43bbfeba69f5b -->
+
+<div class="file-navigation js-zeroclipboard-container">
+  
+<div class="select-menu branch-select-menu js-menu-container js-select-menu float-left">
+  <button class="btn btn-sm select-menu-button js-menu-target css-truncate" data-hotkey="w"
+    
+    type="button" aria-label="Switch branches or tags" tabindex="0" aria-haspopup="true">
+    <i>Branch:</i>
+    <span class="js-select-button css-truncate-target">master</span>
+  </button>
+
+  <div class="select-menu-modal-holder js-menu-content js-navigation-container" data-pjax aria-hidden="true">
+
+    <div class="select-menu-modal">
+      <div class="select-menu-header">
+        <svg aria-label="Close" class="octicon octicon-x js-menu-close" height="16" role="img" version="1.1" viewBox="0 0 12 16" width="12"><path d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48z"></path></svg>
+        <span class="select-menu-title">Switch branches/tags</span>
+      </div>
+
+      <div class="select-menu-filters">
+        <div class="select-menu-text-filter">
+          <input type="text" aria-label="Filter branches/tags" id="context-commitish-filter-field" class="form-control js-filterable-field js-navigation-enable" placeholder="Filter branches/tags">
+        </div>
+        <div class="select-menu-tabs">
+          <ul>
+            <li class="select-menu-tab">
+              <a href="#" data-tab-filter="branches" data-filter-placeholder="Filter branches/tags" class="js-select-menu-tab" role="tab">Branches</a>
+            </li>
+            <li class="select-menu-tab">
+              <a href="#" data-tab-filter="tags" data-filter-placeholder="Find a tag…" class="js-select-menu-tab" role="tab">Tags</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="select-menu-list select-menu-tab-bucket js-select-menu-tab-bucket" data-tab-filter="branches" role="menu">
+
+        <div data-filterable-for="context-commitish-filter-field" data-filterable-type="substring">
+
+
+            <a class="select-menu-item js-navigation-item js-navigation-open selected"
+               href="/gjreda/gregreda.com/blob/master/content/notebooks/data/peyton-passing-TDs-2012.csv"
+               data-name="master"
+               data-skip-pjax="true"
+               rel="nofollow">
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"></path></svg>
+              <span class="select-menu-item-text css-truncate-target js-select-menu-filter-text">
+                master
+              </span>
+            </a>
+            <a class="select-menu-item js-navigation-item js-navigation-open "
+               href="/gjreda/gregreda.com/blob/revert-12-modernize/content/notebooks/data/peyton-passing-TDs-2012.csv"
+               data-name="revert-12-modernize"
+               data-skip-pjax="true"
+               rel="nofollow">
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"></path></svg>
+              <span class="select-menu-item-text css-truncate-target js-select-menu-filter-text">
+                revert-12-modernize
+              </span>
+            </a>
+        </div>
+
+          <div class="select-menu-no-results">Nothing to show</div>
+      </div>
+
+      <div class="select-menu-list select-menu-tab-bucket js-select-menu-tab-bucket" data-tab-filter="tags">
+        <div data-filterable-for="context-commitish-filter-field" data-filterable-type="substring">
+
+
+        </div>
+
+        <div class="select-menu-no-results">Nothing to show</div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+  <div class="BtnGroup float-right">
+    <a href="/gjreda/gregreda.com/find/master"
+          class="js-pjax-capture-input btn btn-sm BtnGroup-item"
+          data-pjax
+          data-hotkey="t">
+      Find file
+    </a>
+    <button aria-label="Copy file path to clipboard" class="js-zeroclipboard btn btn-sm BtnGroup-item tooltipped tooltipped-s" data-copied-hint="Copied!" type="button">Copy path</button>
+  </div>
+  <div class="breadcrumb js-zeroclipboard-target">
+    <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/gjreda/gregreda.com"><span>gregreda.com</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a href="/gjreda/gregreda.com/tree/master/content"><span>content</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/gjreda/gregreda.com/tree/master/content/notebooks"><span>notebooks</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/gjreda/gregreda.com/tree/master/content/notebooks/data"><span>data</span></a></span><span class="separator">/</span><strong class="final-path">peyton-passing-TDs-2012.csv</strong>
+  </div>
+</div>
+
+
+  <div class="commit-tease">
+      <span class="float-right">
+        <a class="commit-tease-sha" href="/gjreda/gregreda.com/commit/f8f4562d1f0793a9e64c4ca1affcfac16fdac7a8" data-pjax>
+          f8f4562
+        </a>
+        <relative-time datetime="2015-03-21T22:32:40Z">Mar 22, 2015</relative-time>
+      </span>
+      <div>
+        <img alt="@gjreda" class="avatar" height="20" src="https://avatars3.githubusercontent.com/u/921995?v=3&amp;s=40" width="20" />
+        <a href="/gjreda" class="user-mention" rel="author">gjreda</a>
+          <a href="/gjreda/gregreda.com/commit/f8f4562d1f0793a9e64c4ca1affcfac16fdac7a8" class="message" data-pjax="true" title="initial commit of new setup">initial commit of new setup</a>
+      </div>
+
+    <div class="commit-tease-contributors">
+      <button type="button" class="btn-link muted-link contributors-toggle" data-facebox="#blob_contributors_box">
+        <strong>1</strong>
+         contributor
+      </button>
+      
+    </div>
+
+    <div id="blob_contributors_box" style="display:none">
+      <h2 class="facebox-header" data-facebox-id="facebox-header">Users who have contributed to this file</h2>
+      <ul class="facebox-user-list" data-facebox-id="facebox-description">
+          <li class="facebox-user-list-item">
+            <img alt="@gjreda" height="24" src="https://avatars1.githubusercontent.com/u/921995?v=3&amp;s=48" width="24" />
+            <a href="/gjreda">gjreda</a>
+          </li>
+      </ul>
+    </div>
+  </div>
+
+<div class="file">
+  <div class="file-header">
+  <div class="file-actions">
+
+    <div class="BtnGroup">
+      <a href="/gjreda/gregreda.com/raw/master/content/notebooks/data/peyton-passing-TDs-2012.csv" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
+        <a href="/gjreda/gregreda.com/blame/master/content/notebooks/data/peyton-passing-TDs-2012.csv" class="btn btn-sm js-update-url-with-hash BtnGroup-item">Blame</a>
+      <a href="/gjreda/gregreda.com/commits/master/content/notebooks/data/peyton-passing-TDs-2012.csv" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
+    </div>
+
+
+        <button type="button" class="btn-octicon disabled tooltipped tooltipped-nw"
+          aria-label="You must be signed in to make or propose changes">
+          <svg aria-hidden="true" class="octicon octicon-pencil" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"></path></svg>
+        </button>
+        <button type="button" class="btn-octicon btn-octicon-danger disabled tooltipped tooltipped-nw"
+          aria-label="You must be signed in to make or propose changes">
+          <svg aria-hidden="true" class="octicon octicon-trashcan" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"></path></svg>
+        </button>
+  </div>
+
+  <div class="file-info">
+      37 lines (37 sloc)
+      <span class="file-info-divider"></span>
+    2.64 KB
+  </div>
+</div>
+
+  
+
+  <div itemprop="text" class="blob-wrapper data type-csv">
+      <div class="blob-interaction-bar">
+  <svg aria-hidden="true" class="octicon octicon-search" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M15.7 13.3l-3.81-3.83A5.93 5.93 0 0 0 13 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 0 0 0-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z"></path></svg>
+  <input type="text" name="filter" class="form-control js-csv-filter-field blob-filter" autocapitalize="off"
+         placeholder="Search this file…" aria-label="Search this file…">
+</div>
+
+<div class="markdown-body">
+  <table class="js-csv-data csv-data js-file-line-container">
+    <thead>
+      <tr id="LC1" class="js-file-line">
+        <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
+        <th>1</th>
+        <th>1</th>
+        <th>2012-09-09</th>
+        <th>DEN</th>
+        <th></th>
+        <th>PIT</th>
+        <th>W 31-19</th>
+        <th>3</th>
+        <th>71</th>
+        <th>Demaryius Thomas</th>
+        <th>Trail 7-13</th>
+        <th>Lead 14-13*</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr id="LC2" class="js-file-line">
+        <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
+        <td>2</td>
+        <td>1</td>
+        <td>2012-09-09</td>
+        <td>DEN</td>
+        <td></td>
+        <td>PIT</td>
+        <td>W 31-19</td>
+        <td>4</td>
+        <td>1</td>
+        <td>Jacob Tamme</td>
+        <td>Trail 14-19</td>
+        <td>Lead 22-19*</td>
+      </tr>
+      <tr id="LC3" class="js-file-line">
+        <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
+        <td>3</td>
+        <td>2</td>
+        <td>2012-09-17</td>
+        <td>DEN</td>
+        <td>@</td>
+        <td>ATL</td>
+        <td>L 21-27</td>
+        <td>2</td>
+        <td>17</td>
+        <td>Demaryius Thomas</td>
+        <td>Trail 0-20</td>
+        <td>Trail 7-20</td>
+      </tr>
+      <tr id="LC4" class="js-file-line">
+        <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
+        <td>4</td>
+        <td>3</td>
+        <td>2012-09-23</td>
+        <td>DEN</td>
+        <td></td>
+        <td>HOU</td>
+        <td>L 25-31</td>
+        <td>4</td>
+        <td>38</td>
+        <td>Brandon Stokley</td>
+        <td>Trail 11-31</td>
+        <td>Trail 18-31</td>
+      </tr>
+      <tr id="LC5" class="js-file-line">
+        <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
+        <td>5</td>
+        <td>3</td>
+        <td>2012-09-23</td>
+        <td>DEN</td>
+        <td></td>
+        <td>HOU</td>
+        <td>L 25-31</td>
+        <td>4</td>
+        <td>6</td>
+        <td>Joel Dreessen</td>
+        <td>Trail 18-31</td>
+        <td>Trail 25-31</td>
+      </tr>
+      <tr id="LC6" class="js-file-line">
+        <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
+        <td>6</td>
+        <td>4</td>
+        <td>2012-09-30</td>
+        <td>DEN</td>
+        <td></td>
+        <td>OAK</td>
+        <td>W 37-6</td>
+        <td>1</td>
+        <td>22</td>
+        <td>Joel Dreessen</td>
+        <td>Tied 0-0</td>
+        <td>Lead 7-0*</td>
+      </tr>
+      <tr id="LC7" class="js-file-line">
+        <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
+        <td>7</td>
+        <td>4</td>
+        <td>2012-09-30</td>
+        <td>DEN</td>
+        <td></td>
+        <td>OAK</td>
+        <td>W 37-6</td>
+        <td>3</td>
+        <td>17</td>
+        <td>Eric Decker</td>
+        <td>Lead 10-6</td>
+        <td>Lead 17-6</td>
+      </tr>
+      <tr id="LC8" class="js-file-line">
+        <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
+        <td>8</td>
+        <td>4</td>
+        <td>2012-09-30</td>
+        <td>DEN</td>
+        <td></td>
+        <td>OAK</td>
+        <td>W 37-6</td>
+        <td>3</td>
+        <td>14</td>
+        <td>Lance Ball</td>
+        <td>Lead 24-6</td>
+        <td>Lead 31-6</td>
+      </tr>
+      <tr id="LC9" class="js-file-line">
+        <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
+        <td>9</td>
+        <td>5</td>
+        <td>2012-10-07</td>
+        <td>DEN</td>
+        <td>@</td>
+        <td>NWE</td>
+        <td>L 21-31</td>
+        <td>2</td>
+        <td>1</td>
+        <td>Joel Dreessen</td>
+        <td>Trail 0-7</td>
+        <td>Tied 7-7</td>
+      </tr>
+      <tr id="LC10" class="js-file-line">
+        <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
+        <td>10</td>
+        <td>5</td>
+        <td>2012-10-07</td>
+        <td>DEN</td>
+        <td>@</td>
+        <td>NWE</td>
+        <td>L 21-31</td>
+        <td>3</td>
+        <td>2</td>
+        <td>Eric Decker</td>
+        <td>Trail 7-31</td>
+        <td>Trail 14-31</td>
+      </tr>
+      <tr id="LC11" class="js-file-line">
+        <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
+        <td>11</td>
+        <td>5</td>
+        <td>2012-10-07</td>
+        <td>DEN</td>
+        <td>@</td>
+        <td>NWE</td>
+        <td>L 21-31</td>
+        <td>4</td>
+        <td>5</td>
+        <td>Brandon Stokley</td>
+        <td>Trail 14-31</td>
+        <td>Trail 21-31</td>
+      </tr>
+      <tr id="LC12" class="js-file-line">
+        <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
+        <td>12</td>
+        <td>6</td>
+        <td>2012-10-15</td>
+        <td>DEN</td>
+        <td>@</td>
+        <td>SDG</td>
+        <td>W 35-24</td>
+        <td>3</td>
+        <td>29</td>
+        <td>Demaryius Thomas</td>
+        <td>Trail 0-24</td>
+        <td>Trail 7-24</td>
+      </tr>
+      <tr id="LC13" class="js-file-line">
+        <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
+        <td>13</td>
+        <td>6</td>
+        <td>2012-10-15</td>
+        <td>DEN</td>
+        <td>@</td>
+        <td>SDG</td>
+        <td>W 35-24</td>
+        <td>4</td>
+        <td>7</td>
+        <td>Eric Decker</td>
+        <td>Trail 14-24</td>
+        <td>Trail 21-24</td>
+      </tr>
+      <tr id="LC14" class="js-file-line">
+        <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
+        <td>14</td>
+        <td>6</td>
+        <td>2012-10-15</td>
+        <td>DEN</td>
+        <td>@</td>
+        <td>SDG</td>
+        <td>W 35-24</td>
+        <td>4</td>
+        <td>21</td>
+        <td>Brandon Stokley</td>
+        <td>Trail 21-24</td>
+        <td>Lead 28-24*</td>
+      </tr>
+      <tr id="LC15" class="js-file-line">
+        <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
+        <td>15</td>
+        <td>7</td>
+        <td>2012-10-28</td>
+        <td>DEN</td>
+        <td></td>
+        <td>NOR</td>
+        <td>W 34-14</td>
+        <td>2</td>
+        <td>13</td>
+        <td>Eric Decker</td>
+        <td>Tied 7-7</td>
+        <td>Lead 14-7*</td>
+      </tr>
+      <tr id="LC16" class="js-file-line">
+        <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
+        <td>16</td>
+        <td>7</td>
+        <td>2012-10-28</td>
+        <td>DEN</td>
+        <td></td>
+        <td>NOR</td>
+        <td>W 34-14</td>
+        <td>3</td>
+        <td>1</td>
+        <td>Demaryius Thomas</td>
+        <td>Lead 17-7</td>
+        <td>Lead 24-7</td>
+      </tr>
+      <tr id="LC17" class="js-file-line">
+        <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
+        <td>17</td>
+        <td>7</td>
+        <td>2012-10-28</td>
+        <td>DEN</td>
+        <td></td>
+        <td>NOR</td>
+        <td>W 34-14</td>
+        <td>4</td>
+        <td>2</td>
+        <td>Eric Decker</td>
+        <td>Lead 24-7</td>
+        <td>Lead 31-7</td>
+      </tr>
+      <tr id="LC18" class="js-file-line">
+        <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
+        <td>18</td>
+        <td>8</td>
+        <td>2012-11-04</td>
+        <td>DEN</td>
+        <td>@</td>
+        <td>CIN</td>
+        <td>W 31-23</td>
+        <td>2</td>
+        <td>13</td>
+        <td>Eric Decker</td>
+        <td>Tied 3-3</td>
+        <td>Lead 10-3*</td>
+      </tr>
+      <tr id="LC19" class="js-file-line">
+        <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
+        <td>19</td>
+        <td>8</td>
+        <td>2012-11-04</td>
+        <td>DEN</td>
+        <td>@</td>
+        <td>CIN</td>
+        <td>W 31-23</td>
+        <td>4</td>
+        <td>1</td>
+        <td>Joel Dreessen</td>
+        <td>Trail 17-20</td>
+        <td>Lead 24-20*</td>
+      </tr>
+      <tr id="LC20" class="js-file-line">
+        <td id="L20" class="blob-num js-line-number" data-line-number="20"></td>
+        <td>20</td>
+        <td>8</td>
+        <td>2012-11-04</td>
+        <td>DEN</td>
+        <td>@</td>
+        <td>CIN</td>
+        <td>W 31-23</td>
+        <td>4</td>
+        <td>4</td>
+        <td>Eric Decker</td>
+        <td>Lead 24-20</td>
+        <td>Lead 31-20</td>
+      </tr>
+      <tr id="LC21" class="js-file-line">
+        <td id="L21" class="blob-num js-line-number" data-line-number="21"></td>
+        <td>21</td>
+        <td>9</td>
+        <td>2012-11-11</td>
+        <td>DEN</td>
+        <td>@</td>
+        <td>CAR</td>
+        <td>W 36-14</td>
+        <td>1</td>
+        <td>10</td>
+        <td>Brandon Stokley</td>
+        <td>Trail 0-7</td>
+        <td>Tied 7-7</td>
+      </tr>
+      <tr id="LC22" class="js-file-line">
+        <td id="L22" class="blob-num js-line-number" data-line-number="22"></td>
+        <td>22</td>
+        <td>10</td>
+        <td>2012-11-18</td>
+        <td>DEN</td>
+        <td></td>
+        <td>SDG</td>
+        <td>W 30-23</td>
+        <td>2</td>
+        <td>13</td>
+        <td>Demaryius Thomas</td>
+        <td>Trail 0-7</td>
+        <td>Tied 7-7</td>
+      </tr>
+      <tr id="LC23" class="js-file-line">
+        <td id="L23" class="blob-num js-line-number" data-line-number="23"></td>
+        <td>23</td>
+        <td>10</td>
+        <td>2012-11-18</td>
+        <td>DEN</td>
+        <td></td>
+        <td>SDG</td>
+        <td>W 30-23</td>
+        <td>2</td>
+        <td>31</td>
+        <td>Brandon Stokley</td>
+        <td>Lead 10-7</td>
+        <td>Lead 17-7</td>
+      </tr>
+      <tr id="LC24" class="js-file-line">
+        <td id="L24" class="blob-num js-line-number" data-line-number="24"></td>
+        <td>24</td>
+        <td>10</td>
+        <td>2012-11-18</td>
+        <td>DEN</td>
+        <td></td>
+        <td>SDG</td>
+        <td>W 30-23</td>
+        <td>3</td>
+        <td>20</td>
+        <td>Eric Decker</td>
+        <td>Lead 17-9</td>
+        <td>Lead 24-9</td>
+      </tr>
+      <tr id="LC25" class="js-file-line">
+        <td id="L25" class="blob-num js-line-number" data-line-number="25"></td>
+        <td>25</td>
+        <td>11</td>
+        <td>2012-11-25</td>
+        <td>DEN</td>
+        <td>@</td>
+        <td>KAN</td>
+        <td>W 17-9</td>
+        <td>2</td>
+        <td>7</td>
+        <td>Jacob Tamme</td>
+        <td>Trail 0-6</td>
+        <td>Lead 7-6*</td>
+      </tr>
+      <tr id="LC26" class="js-file-line">
+        <td id="L26" class="blob-num js-line-number" data-line-number="26"></td>
+        <td>26</td>
+        <td>11</td>
+        <td>2012-11-25</td>
+        <td>DEN</td>
+        <td>@</td>
+        <td>KAN</td>
+        <td>W 17-9</td>
+        <td>3</td>
+        <td>30</td>
+        <td>Demaryius Thomas</td>
+        <td>Trail 7-9</td>
+        <td>Lead 14-9*</td>
+      </tr>
+      <tr id="LC27" class="js-file-line">
+        <td id="L27" class="blob-num js-line-number" data-line-number="27"></td>
+        <td>27</td>
+        <td>12</td>
+        <td>2012-12-02</td>
+        <td>DEN</td>
+        <td></td>
+        <td>TAM</td>
+        <td>W 31-23</td>
+        <td>1</td>
+        <td>1</td>
+        <td>Mitch Unrein</td>
+        <td>Tied 0-0</td>
+        <td>Lead 7-0*</td>
+      </tr>
+      <tr id="LC28" class="js-file-line">
+        <td id="L28" class="blob-num js-line-number" data-line-number="28"></td>
+        <td>28</td>
+        <td>12</td>
+        <td>2012-12-02</td>
+        <td>DEN</td>
+        <td></td>
+        <td>TAM</td>
+        <td>W 31-23</td>
+        <td>3</td>
+        <td>8</td>
+        <td>Demaryius Thomas</td>
+        <td>Trail 7-10</td>
+        <td>Lead 14-10*</td>
+      </tr>
+      <tr id="LC29" class="js-file-line">
+        <td id="L29" class="blob-num js-line-number" data-line-number="29"></td>
+        <td>29</td>
+        <td>12</td>
+        <td>2012-12-02</td>
+        <td>DEN</td>
+        <td></td>
+        <td>TAM</td>
+        <td>W 31-23</td>
+        <td>3</td>
+        <td>10</td>
+        <td>Demaryius Thomas</td>
+        <td>Lead 14-10</td>
+        <td>Lead 21-10</td>
+      </tr>
+      <tr id="LC30" class="js-file-line">
+        <td id="L30" class="blob-num js-line-number" data-line-number="30"></td>
+        <td>30</td>
+        <td>13</td>
+        <td>2012-12-06</td>
+        <td>DEN</td>
+        <td>@</td>
+        <td>OAK</td>
+        <td>W 26-13</td>
+        <td>1</td>
+        <td>6</td>
+        <td>Joel Dreessen</td>
+        <td>Tied 0-0</td>
+        <td>Lead 7-0*</td>
+      </tr>
+      <tr id="LC31" class="js-file-line">
+        <td id="L31" class="blob-num js-line-number" data-line-number="31"></td>
+        <td>31</td>
+        <td>14</td>
+        <td>2012-12-16</td>
+        <td>DEN</td>
+        <td>@</td>
+        <td>BAL</td>
+        <td>W 34-17</td>
+        <td>3</td>
+        <td>51</td>
+        <td>Eric Decker</td>
+        <td>Lead 17-3</td>
+        <td>Lead 24-3</td>
+      </tr>
+      <tr id="LC32" class="js-file-line">
+        <td id="L32" class="blob-num js-line-number" data-line-number="32"></td>
+        <td>32</td>
+        <td>15</td>
+        <td>2012-12-23</td>
+        <td>DEN</td>
+        <td></td>
+        <td>CLE</td>
+        <td>W 34-12</td>
+        <td>1</td>
+        <td>22</td>
+        <td>Demaryius Thomas</td>
+        <td>Tied 0-0</td>
+        <td>Lead 7-0*</td>
+      </tr>
+      <tr id="LC33" class="js-file-line">
+        <td id="L33" class="blob-num js-line-number" data-line-number="33"></td>
+        <td>33</td>
+        <td>15</td>
+        <td>2012-12-23</td>
+        <td>DEN</td>
+        <td></td>
+        <td>CLE</td>
+        <td>W 34-12</td>
+        <td>2</td>
+        <td>10</td>
+        <td>Eric Decker</td>
+        <td>Lead 7-3</td>
+        <td>Lead 14-3</td>
+      </tr>
+      <tr id="LC34" class="js-file-line">
+        <td id="L34" class="blob-num js-line-number" data-line-number="34"></td>
+        <td>34</td>
+        <td>15</td>
+        <td>2012-12-23</td>
+        <td>DEN</td>
+        <td></td>
+        <td>CLE</td>
+        <td>W 34-12</td>
+        <td>3</td>
+        <td>8</td>
+        <td>Eric Decker</td>
+        <td>Lead 14-6</td>
+        <td>Lead 21-6</td>
+      </tr>
+      <tr id="LC35" class="js-file-line">
+        <td id="L35" class="blob-num js-line-number" data-line-number="35"></td>
+        <td>35</td>
+        <td>16</td>
+        <td>2012-12-30</td>
+        <td>DEN</td>
+        <td></td>
+        <td>KAN</td>
+        <td>W 38-3</td>
+        <td>2</td>
+        <td>11</td>
+        <td>Eric Decker</td>
+        <td>Lead 7-3</td>
+        <td>Lead 14-3</td>
+      </tr>
+      <tr id="LC36" class="js-file-line">
+        <td id="L36" class="blob-num js-line-number" data-line-number="36"></td>
+        <td>36</td>
+        <td>16</td>
+        <td>2012-12-30</td>
+        <td>DEN</td>
+        <td></td>
+        <td>KAN</td>
+        <td>W 38-3</td>
+        <td>2</td>
+        <td>16</td>
+        <td>Eric Decker</td>
+        <td>Lead 14-3</td>
+        <td>Lead 21-3</td>
+      </tr>
+      <tr id="LC37" class="js-file-line">
+        <td id="L37" class="blob-num js-line-number" data-line-number="37"></td>
+        <td>37</td>
+        <td>16</td>
+        <td>2012-12-30</td>
+        <td>DEN</td>
+        <td></td>
+        <td>KAN</td>
+        <td>W 38-3</td>
+        <td>3</td>
+        <td>13</td>
+        <td>Demaryius Thomas</td>
+        <td>Lead 21-3</td>
+        <td>Lead 28-3</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+  </div>
+
+</div>
+
+<button type="button" data-facebox="#jump-to-line" data-facebox-class="linejump" data-hotkey="l" class="d-none">Jump to Line</button>
+<div id="jump-to-line" style="display:none">
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="" class="js-jump-to-line-form" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+    <input class="form-control linejump-input js-jump-to-line-field" type="text" placeholder="Jump to line&hellip;" aria-label="Jump to line" autofocus>
+    <button type="submit" class="btn">Go</button>
+</form></div>
+
+  </div>
+  <div class="modal-backdrop js-touch-events"></div>
+</div>
+
+
+    </div>
+  </div>
+
+    </div>
+
+        <div class="container site-footer-container">
+  <div class="site-footer" role="contentinfo">
+    <ul class="site-footer-links float-right">
+        <li><a href="https://github.com/contact" data-ga-click="Footer, go to contact, text:contact">Contact GitHub</a></li>
+      <li><a href="https://developer.github.com" data-ga-click="Footer, go to api, text:api">API</a></li>
+      <li><a href="https://training.github.com" data-ga-click="Footer, go to training, text:training">Training</a></li>
+      <li><a href="https://shop.github.com" data-ga-click="Footer, go to shop, text:shop">Shop</a></li>
+        <li><a href="https://github.com/blog" data-ga-click="Footer, go to blog, text:blog">Blog</a></li>
+        <li><a href="https://github.com/about" data-ga-click="Footer, go to about, text:about">About</a></li>
+
+    </ul>
+
+    <a href="https://github.com" aria-label="Homepage" class="site-footer-mark" title="GitHub">
+      <svg aria-hidden="true" class="octicon octicon-mark-github" height="24" version="1.1" viewBox="0 0 16 16" width="24"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"></path></svg>
+</a>
+    <ul class="site-footer-links">
+      <li>&copy; 2016 <span title="0.08854s from github-fe125-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+        <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
+        <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
+        <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
+        <li><a href="https://status.github.com/" data-ga-click="Footer, go to status, text:status">Status</a></li>
+        <li><a href="https://help.github.com" data-ga-click="Footer, go to help, text:help">Help</a></li>
+    </ul>
+  </div>
+</div>
+
+
+
+    
+
+    <div id="ajax-error-message" class="ajax-error-message flash flash-error">
+      <svg aria-hidden="true" class="octicon octicon-alert" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M8.865 1.52c-.18-.31-.51-.5-.87-.5s-.69.19-.87.5L.275 13.5c-.18.31-.18.69 0 1 .19.31.52.5.87.5h13.7c.36 0 .69-.19.86-.5.17-.31.18-.69.01-1L8.865 1.52zM8.995 13h-2v-2h2v2zm0-3h-2V6h2v4z"></path></svg>
+      <button type="button" class="flash-close js-flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
+        <svg aria-hidden="true" class="octicon octicon-x" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48z"></path></svg>
+      </button>
+      You can't perform that action at this time.
+    </div>
+
+
+      <script crossorigin="anonymous" src="https://assets-cdn.github.com/assets/compat-30ce4c86c27f88c3d1b4eb03efda59b45d8d7c871880dee0b8f73d5ef1b25fdf.js"></script>
+      <script crossorigin="anonymous" src="https://assets-cdn.github.com/assets/frameworks-33b22a6d8d4e7a6df6f3868fc101644ec8b92539c1d828b23b34dff4b2f613f7.js"></script>
+      <script async="async" crossorigin="anonymous" src="https://assets-cdn.github.com/assets/github-92f407d1e778dafd05b0c49cf3a0018d2db470807dabea8eff08954ab1689f7e.js"></script>
+      
+      
+      
+      
+      
+    <div class="js-stale-session-flash stale-session-flash flash flash-warn flash-banner d-none">
+      <svg aria-hidden="true" class="octicon octicon-alert" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M8.865 1.52c-.18-.31-.51-.5-.87-.5s-.69.19-.87.5L.275 13.5c-.18.31-.18.69 0 1 .19.31.52.5.87.5h13.7c.36 0 .69-.19.86-.5.17-.31.18-.69.01-1L8.865 1.52zM8.995 13h-2v-2h2v2zm0-3h-2V6h2v4z"></path></svg>
+      <span class="signed-in-tab-flash">You signed in with another tab or window. <a href="">Reload</a> to refresh your session.</span>
+      <span class="signed-out-tab-flash">You signed out in another tab or window. <a href="">Reload</a> to refresh your session.</span>
+    </div>
+    <div class="facebox" id="facebox" style="display:none;">
+  <div class="facebox-popup">
+    <div class="facebox-content" role="dialog" aria-labelledby="facebox-header" aria-describedby="facebox-description">
+    </div>
+    <button type="button" class="facebox-close js-facebox-close" aria-label="Close modal">
+      <svg aria-hidden="true" class="octicon octicon-x" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48z"></path></svg>
+    </button>
+  </div>
+</div>
+
+  </body>
+</html>
+
