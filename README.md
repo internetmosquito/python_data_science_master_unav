@@ -12,7 +12,7 @@ En un mundo en el que cada día las empresas manejan más datos, se antoja funda
 
 **Profesores que la imparten:**  Iván Cordón Medrano (icmedrano@unav.es)  y  Alejandro Villamarín Koch (alejandrovillamarin@internetmosquito.com).
 
-**Horario, fecha y lugar de las clases:**  Viernes de 15.45 a 20.45 con un descanso de 18:00 a 18:30. Cierran el edificio a las 21:00 y sábados de 9.00 a 14.00 horas con un descanso de 11:15 a 11:45. Las clases tendran lugar 19, 20, 26 y 27 de Enero y 2, 3, 9 y 10 de Febrero.
+**Horario, fecha y lugar de las clases:**  5, 12,19 y 26 de Octubre, 2, 9, 16 de Noviembre. Cierran el edificio a las 21:00.
 
 ## Programa
 
