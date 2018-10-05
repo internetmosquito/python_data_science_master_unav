@@ -2,7 +2,7 @@
 
 Veamos como poner todo en marcha haciendo una instalación en local o utilizando Docker
 
-Se incluye un fichero docker en el raíz que permite ejecutar Jupyter y los notebooks del master de forma automática y
+Se incluye un fichero docker en el raíz que permite ejecutar Jupyter y los notebooks del master de forma automática e
 isolada, siempre y cuando se instale Docker.
 
 Por defecto, se incluyen los siguientes paquetes si se utiliza Docker:
